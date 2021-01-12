@@ -1,0 +1,31 @@
+@import '../../config';
+
+input {
+  width: 10%;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-right: 0.8rem;
+  background-color: $primary-background-color;
+  border-bottom-style: solid;
+  border-right-color: $primary-background-color;
+  border-bottom-color: $primary-text-color;
+  border-bottom-width: 0.1rem;
+  color: $primary-text-color;
+
+  &:hover {
+    border-bottom-width: 0.2rem;
+  }
+
+  &:focus {
+    border-right-color: $primary-background-color;
+
+    &::placeholder {
+      color: transparent;
+    }
+  }
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}

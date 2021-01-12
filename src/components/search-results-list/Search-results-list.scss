@@ -1,0 +1,17 @@
+@import '../../config';
+
+.num-of-results {
+  margin-top: 1rem;
+  font-family: 'Anton';
+  color: $primary-text-color;
+  font-size: 2rem;
+  display: none;
+  font-family: 'Source Code Pro';
+}
+
+.load {
+  display: none;
+  font-family: 'Bebas Neue';
+  font-size: 1.3rem;
+  color: $primary-text-color;
+}

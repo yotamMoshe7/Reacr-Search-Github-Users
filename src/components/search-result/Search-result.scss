@@ -1,0 +1,58 @@
+@import '../../config';
+
+.row {
+  width: 43rem;
+  margin: auto;
+  margin-top: 2rem;
+  display: grid;
+  grid-template-columns: 20% 50% 30%;
+  grid-template-rows: 20% 32% 28% 20%;
+  font-family: 'PT Sans Narrow', sans-serif;
+  border-style: solid;
+  border-width: 0.1rem;
+  border-color: $primary-text-color;
+  padding: 1.2rem;
+}
+
+.name {
+  color: $primary-text-color;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 2.3rem;
+  grid-column: 2 / 5;
+  grid-row: 2;
+  text-align: left;
+  margin-left: 1.4rem;
+}
+
+.description {
+  color: $secondary-text-color;
+  font-size: 1.3rem;
+  grid-column: 2 / 4;
+  grid-row: 3 / 4;
+  text-align: left;
+  margin-left: 1.4rem;
+}
+
+.avatar-container {
+  grid-column: 1 / 1;
+  grid-row: 1 / 5;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.image {
+  width: 100%;
+  border-radius: 50%;
+  border-color: $primary-text-color;
+  border-width: 0.3rem;
+  border-style: groove;
+}
+
+.email {
+  color: $secondary-text-color;
+  font-size: 1.5rem;
+  grid-column: 2 / 5;
+  grid-row: 1;
+  text-align: right;
+}

@@ -1,0 +1,6 @@
+{
+    "urls":{
+    "githubUsersSearch": "https://api.github.com/search/users?q=",
+    "filtersUsersSearch": "https://api.github.com/users/"
+  }
+}
