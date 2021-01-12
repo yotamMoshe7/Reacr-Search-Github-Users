@@ -1,6 +1,6 @@
 # React Github Users Search Engine
 ### Overview
-This app allows the user to search Github users by there Github username.  
+This app allows the user to search for a Github accounts by there Github username.  
 
 The app implement infinity scrolling for users search results.  
 
