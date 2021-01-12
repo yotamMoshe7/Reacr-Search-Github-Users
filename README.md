@@ -5,7 +5,7 @@ The app implement infinity scrolling for users search results.
 
 ### Welcome Page
 
-![app home page](https://user-images.githubusercontent.com/57434735/104339245-0e1bdc80-5500-11eb-8043-9349863e9cca.PNG)
+![app welcome page](https://user-images.githubusercontent.com/57434735/104340653-951d8480-5501-11eb-86ae-ad685a2ce52b.PNG)
 
 ### Search Page
 
