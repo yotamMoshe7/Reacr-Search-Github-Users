@@ -1,15 +1,18 @@
 # React Github Users Search Engine
+
 ### Overview
-This app allows the user to search for a Github accounts by there Github username.  
 
-The app implement infinity scrolling for users search results.  
+This app allows the user to search for a Github accounts by there Github username.
 
-### Instructions for running the app:  
-1. For using the app, you need to generate a Github PAT (Personal Access Token).  
-2. Generate a token from this link: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token  
-3. Replace the token inside the .env file with the token you just generated.  
-4. Run in the terminal 'npm install'.  
-5. Run in the terminal 'npm start'.  
+The app implement infinity scrolling for users search results.
+
+### Instructions for running the app:
+
+1. For using the app, you need to generate a Github PAT (Personal Access Token).
+2. Generate a token from this link: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
+3. Replace the token inside the .env file with the token you just generated.
+4. Run in the terminal 'npm install'.
+5. Run in the terminal 'npm start'.
 
 ### Welcome Page
 
@@ -18,7 +21,6 @@ The app implement infinity scrolling for users search results.
 ### Search Page
 
 ![app image](https://user-images.githubusercontent.com/57434735/104339708-913d3280-5500-11eb-9f38-89b12c7e26f6.PNG)
-
 
 # Getting Started with Create React App
 
@@ -91,5 +93,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
-
+## Thank you and have fun!
