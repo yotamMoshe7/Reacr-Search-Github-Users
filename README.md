@@ -28,3 +28,4 @@ Type in terminal:
 2. npm start.
 
 ## Thank you and have fun!
+ 
